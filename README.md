@@ -26,7 +26,7 @@ This project demonstrates how to perform web scraping using Selenium to collect 
 ---
 
 ## 📊 Sample Output
-![Web Scraping Result](Final.png)
+![Web Scraping Result](Result.png)
 - **Title**: 12 Machine Learning Skills to Power Your Career in 2025
 - **Meta Description**: Discover the top ML skills to boost your career.
 - **Content**: "Machine learning is evolving rapidly. Key skills include Python, data analysis, deep learning, and cloud computing..."
