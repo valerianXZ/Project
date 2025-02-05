@@ -38,4 +38,3 @@ This project demonstrates how to perform web scraping using Selenium to collect 
 - Enhance error handling for dynamic websites.
 - Support multilingual scraping for international content.
 
-* 
